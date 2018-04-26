@@ -20,10 +20,10 @@ default:
 ##   'spoqa-han-sans-jp'
 ## ]
 ## If you don't want font, you shouldn't specify the font.
-font:
+font: noto-sans-kr
 
 # Dynamic menu with scrolling
-dynamic_menu: false
+dynamic_menu: true
 
 # Highlight theme
 ## You can also use various themes in `css/highlights`
